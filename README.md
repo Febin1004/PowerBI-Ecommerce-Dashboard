@@ -17,3 +17,4 @@ The dashboard is designed for C-level executives to monitor business health, tra
 
 ## How to View
 *(Note to recruiter: A PDF export or screenshot of the final dashboard can be provided upon request, or view the `.pbix` file locally).*
+"# PowerBI-Ecommerce-Dashboard" 
